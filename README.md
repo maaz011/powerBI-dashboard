@@ -86,13 +86,7 @@ The following charts and visualizations are included in the Power BI dashboard t
 To use and explore the Power BI dashboard, you will need:
 
 - **Power BI Desktop** or **Power BI Service** to open and interact with the report.
-- **Data Source**: A CSV file or database connection containing Blinkit's sales, customer, and outlet data.
+- **Data Source**: An Excel file of Blinkit's sales, customer, and outlet data.
 
-### Installation
 
-Follow these steps to set up the dashboard:
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/blinkit-sales-analysis.git
 
