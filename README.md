@@ -1,4 +1,4 @@
-![Screenshot 2024-11-24 112133](https://github.com/user-attachments/assets/da47b535-8c4f-4691-aa67-1d85b9ffb9a5)# Blinkit Sales Analysis Dashboard
+# Blinkit Sales Analysis Dashboard
 
 This repository contains a Power BI dashboard designed to analyze Blinkit's sales performance, customer satisfaction, and inventory distribution. The primary objective is to gain actionable insights using various Key Performance Indicators (KPIs) and visualizations, with the goal of optimizing business strategies for Blinkit.
 
@@ -9,7 +9,7 @@ Blinkit, a leading online retailer, is looking to optimize its sales performance
 - **Maximize Revenue**: By analyzing total sales, revenue per sale, item performance, and customer satisfaction, Blinkit can improve its sales strategy.
 - **Improve Customer Satisfaction**: The analysis will reveal how customer ratings correlate with sales performance, helping Blinkit identify areas for improvement.
 - **Optimize Inventory Distribution**: By examining how inventory characteristics (such as fat content, outlet size, and location) affect sales, Blinkit can streamline its inventory management.
-![snap 0]![Screenshot 2024-11-24 112003](https://github.com/user-attachments/assets/58ff80e2-920a-4fb3-a862-c8df5fe23ba5)
+![Dashboard](https://github.com/user-attachments/assets/58ff80e2-920a-4fb3-a862-c8df5fe23ba5)
 ()
 
 ## Business Requirements
@@ -38,8 +38,7 @@ The following charts and visualizations are included in the Power BI dashboard t
 - **KPI Metrics**: In addition to total sales, this chart assesses how Average Sales, Number of Items, and Average Rating vary with fat content.
 - **Chart Type**: Donut Chart.
 
-![Total Sales by Fat Content]
-![Screenshot 2024-11-24 112133](https://github.com/user-attachments/assets/fd5cb12a-f471-4999-908d-a79316c750ed)
+![Total Sales by Fat Content](https://github.com/user-attachments/assets/fd5cb12a-f471-4999-908d-a79316c750ed)
 
 
 ### 2. Total Sales by Item Type
@@ -47,44 +46,38 @@ The following charts and visualizations are included in the Power BI dashboard t
 - **KPI Metrics**: Similar to the previous chart, this one examines Average Sales, Number of Items, and Average Rating by item type.
 - **Chart Type**: Bar Chart.
 
-![Total Sales by Item Type](images/ssss.png)
-![ssss](https://github.com/user-attachments/assets/a5a30623-4bd4-45eb-8442-b7427d6ed009)
+![Total Sales by Item Type](https://github.com/user-attachments/assets/a5a30623-4bd4-45eb-8442-b7427d6ed009)
 
 ### 3. Fat Content by Outlet for Total Sales
 - **Objective**: Compare total sales across different outlets segmented by fat content.
 - **KPI Metrics**: This chart evaluates how Average Sales, Number of Items, and Average Rating vary by fat content for each outlet.
 - **Chart Type**: Stacked Column Chart.
 
-![Fat Content by Outlet for Total Sales](images/Screenshot 2024-11-24 1121.png)
-![Screenshot 2024-11-24 1121](https://github.com/user-attachments/assets/3aa708a4-5f2e-4c6d-a1ce-8ce06b0fd193)
+![Fat Content by Outlet for Total Sales](https://github.com/user-attachments/assets/3aa708a4-5f2e-4c6d-a1ce-8ce06b0fd193)
 
 ### 4. Total Sales by Outlet Establishment
 - **Objective**: Evaluate how the age or type of outlet establishment influences total sales.
 - **Chart Type**: Line Chart.
 
-![Total Sales by Outlet Establishment](images/Screenshot 2024-11-24 112343.png)
-![Screenshot 2024-11-24 112343](https://github.com/user-attachments/assets/a14e8d3c-0854-4d6a-a868-447bbf6b5a41)
+![Total Sales by Outlet Establishment](https://github.com/user-attachments/assets/a14e8d3c-0854-4d6a-a868-447bbf6b5a41)
 
 ### 5. Sales by Outlet Size
 - **Objective**: Analyze the correlation between outlet size and total sales.
 - **Chart Type**: Donut/Pie Chart.
 
-![Sales by Outlet Size](images/Screenshot 2024-11-24 112413.png)
-![Screenshot 2024-11-24 112413](https://github.com/user-attachments/assets/ccbd88c1-2a76-4fc6-b157-38ae6abf399d)
+![Sales by Outlet Size](https://github.com/user-attachments/assets/ccbd88c1-2a76-4fc6-b157-38ae6abf399d)
 
 ### 6. Sales by Outlet Location
 - **Objective**: Assess the geographic distribution of sales across different locations.
 - **Chart Type**: Funnel Map.
 
-![Sales by Outlet Location](images/Screenshot 2024-11-24 112433.png)
-![Screenshot 2024-11-24 112433](https://github.com/user-attachments/assets/ac864b31-5477-4749-9f98-0a0b02aa48f5)
+![Sales by Outlet Location](https://github.com/user-attachments/assets/ac864b31-5477-4749-9f98-0a0b02aa48f5)
 
 ### 7. All Metrics by Outlet Type
 - **Objective**: Provide a comprehensive view of all key metrics (Total Sales, Average Sales, Number of Items, Average Rating) broken down by different outlet types.
 - **Chart Type**: Matrix Card.
 
-![All Metrics by Outlet Type](images/Screenshot 2024-11-24 112446.png)
-![Screenshot 2024-11-24 112446](https://github.com/user-attachments/assets/3ad22fb1-4486-4400-80b5-1b4f67f76b24)
+![All Metrics by Outlet Type](https://github.com/user-attachments/assets/3ad22fb1-4486-4400-80b5-1b4f67f76b24)
 
 ## Getting Started
 
